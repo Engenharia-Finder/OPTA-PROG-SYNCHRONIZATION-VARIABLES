@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:mbed_opta:opta",
+    "name": "",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
